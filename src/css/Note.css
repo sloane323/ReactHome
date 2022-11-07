@@ -1,0 +1,31 @@
+.headers {
+    text-align: center;
+}
+
+.btn1 {
+    margin: 20px;
+    width: 100px;
+    height: 80px;
+    text-decoration: none;
+}
+
+li {
+    list-style:none;
+
+}
+
+#wrtinb {
+    font-size: 30px;
+}
+
+#wrtin {
+    font-size: 9px;
+}
+
+#namebox {
+    width: 15%;
+}
+
+#textbox {
+    width: 50%;
+}
